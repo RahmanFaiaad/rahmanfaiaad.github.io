@@ -43,7 +43,7 @@
   cgpa_scale: "5.00"
   # rank: "14 / 215 (Top 6%)"
   location: "Dhaka, Bangladesh"
-  logo: "Logo_of_BNMPC.png"
+  #logo: "Logo_of_BNMPC.png"
 
 
 
@@ -58,4 +58,4 @@
   cgpa_scale: "5.00"
   # rank: "14 / 215 (Top 6%)"
   location: "Brahmanbaria, Bangladesh"
-  logo: "Annada.png"
+  #logo: "Annada.png"
