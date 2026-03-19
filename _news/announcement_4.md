@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-10-20
+date: 2026-02-15
 inline: true
 related_posts: false
 ---
 
-Successfully defended my Undergraduate Thesis titled "Performance Improvement of Three Terminal Heterojunction Bipolar Transistor Based Solar Cell using ARCs & Nano-rods"
+A Conferenece Proceeding based on an collaborative project titled "Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL" has been accepted at the IEEE QPAIN-2026!
