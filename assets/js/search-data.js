@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-successfully-defended-my-undergraduate-thesis-titled-performance-improvement-of-three-terminal-heterojunction-bipolar-transistor-based-solar-cell-using-arcs-amp-amp-nano-rods",
+          title: 'Successfully defended my Undergraduate Thesis titled “Performance Improvement of Three Terminal Heterojunction Bipolar...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
