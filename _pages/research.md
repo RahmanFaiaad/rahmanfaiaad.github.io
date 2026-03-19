@@ -118,7 +118,7 @@ nav_order: 3
 
 <div style="height: 60px;"></div> 
 
-- <p style="font-size: 20px;">“<strong>Optoelectronic Simulation of Plasmonic Star-Shaped Nano Prism Incorporated Perovskite Solar Cell</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
+- <p style="font-size: 20px;">“<strong>PbS-CQD Incorporated Perovskite (MASnI3) Solar Cell with s-SWCNT as HTL</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
 
 <div style="text-align: center; font-size: 20px;">
   <a href="https://drive.google.com/file/d/1cQpLkGS0KRfpt-eOIL2IU_PlO2vovdKw/view?usp=sharing" style="color: blue;">
