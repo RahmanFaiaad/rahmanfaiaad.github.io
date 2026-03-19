@@ -121,7 +121,7 @@ nav_order: 3
 - <p style="font-size: 20px;">“<strong>PbS-CQD Incorporated Perovskite (MASnI3) Solar Cell with s-SWCNT as HTL</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
 
 <div style="text-align: center; font-size: 20px;">
-  <a href="https://drive.google.com/file/d/1cQpLkGS0KRfpt-eOIL2IU_PlO2vovdKw/view?usp=sharing" style="color: blue;">
+  <a href="https://drive.google.com/file/d/1TrDXoqpd_HrtY_cftBJvIWeYjBfTwOFX/view?usp=sharing" style="color: blue;">
     <strong style="color: blue;">Presentation</strong>
   </a>
 </div>
