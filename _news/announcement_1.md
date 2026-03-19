@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Successfully defended my Undergraduate Thesis titled "Performance Improvement of Three Terminal Heterojunction Bipolar Transistor Based Solar Cell using ARCs & Nano-rods"
