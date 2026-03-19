@@ -53,12 +53,12 @@ nav_order: 3
 <div style="height: 60px;"></div>
 
 <p style="text-align: Left; font-size: 28px;">
-    <strong>Journals</strong>
+    <strong>Journal Articles</strong>
 </p>
 
-- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Md. Mufassal Ahmad, Tahmid Aziz Chowdhury, and Showmik Singha, “<strong>Performance improvement of three terminal heterojunction bipolar transistor based hybrid solar cell using nano-rods</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2022) </i> </p>
+- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Md. Mufassal Ahmad, Tahmid Aziz Chowdhury, and Showmik Singha, “<strong>Performance improvement of three terminal heterojunction bipolar transistor based hybrid solar cell using nano-rods</strong>” <i> Manuscript published in <strong>Solar Energy</strong> (2022) </i> </p>
 
-- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Arpan Sur, and Ahmed Zubair, “<strong>Hierarchically structured and thermally robust perovskite solar cells with band-engineered double-hole layers</strong>” <i> Published in <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Arpan Sur, and Ahmed Zubair, “<strong>Hierarchically structured and thermally robust perovskite solar cells with band-engineered double-hole layers</strong>” <i> Manuscript published in <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
 
 - <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
 
