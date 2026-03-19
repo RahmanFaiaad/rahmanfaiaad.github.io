@@ -62,7 +62,7 @@ nav_order: 3
 - <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman</strong>, Jabed Hasan, Md. Ashaduzzaman Niloy and, ASM Shihabuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
 
 
-- <p style="font-size: 20px;">Md. Mufassal Ahmed*, <strong>Md. Faiaad Rahman*</strong> and, Tahmid Aziz Chowdhury, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>” <i> presented in PERESC (2020) </i> </p>
+- <p style="font-size: 20px;">Md. Mufassal Ahmed*, <strong>Md. Faiaad Rahman*</strong> and, Tahmid Aziz Chowdhury, “<strong>Performance Analysis of MgF2-Si3N4 and MgF2-Ta2O5 Double-Layer Anti-reflection Coating on Heterojunction Bipolar Transistor Solar Cell</strong>” <i> presented in PERESC (2020) </i> </p>
 
 
 <div style="height: 60px;"></div> 
