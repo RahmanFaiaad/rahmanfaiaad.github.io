@@ -126,7 +126,15 @@ nav_order: 3
   </a>
 </div>
 
+<div style="height: 60px;"></div> 
 
+- <p style="font-size: 20px;">“<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> Presented in 2nd IEEE QPAIN (Quantum Photonics, Artificial Intelligence & Networking) 2026 </i></p>
+
+<div style="text-align: center; font-size: 20px;">
+  <a href="https://drive.google.com/file/d/1gCmgehNchATMwpqQ6oM4iQpCqmDZgkqE/view?usp=sharing" style="color: blue;">
+    <strong style="color: blue;">Presentation</strong>
+  </a>
+</div>
 
 
 <div style="height: 60px;"></div> 
