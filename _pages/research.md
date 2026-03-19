@@ -24,7 +24,7 @@ nav_order: 3
     <ul style="list-style-position: inside; text-align: left;">
       <li><strong>Plasmonics</strong></li>
       <li><strong>Integrated Optics</strong></li>
-      <li><strong>Non-linear Optics</strong></li>
+      <!--<li><strong>Non-linear Optics</strong></li> -->
       <li><strong>Solar Cell</strong></li>
     </ul>
   </div>
@@ -33,7 +33,7 @@ nav_order: 3
     <ul style="list-style-position: inside; text-align: left;">
       <li><strong>Nanophotonics</strong></li>
       <li><strong>Ultrafast Optoelectronics</strong></li>
-      <li><strong>Quantum Optics</strong></li>
+      <!--<li><strong>Quantum Optics</strong></li>-->
       <li><strong>Inverse Design</strong></li>
     </ul>
   </div>
