@@ -56,11 +56,11 @@ nav_order: 3
     <strong>Journals</strong>
 </p>
 
-- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Md. Mufassal Ahmad, Tahmid Aziz Chowdhury, and Showmik Singha, “<strong>Performance improvement of three terminal heterojunction bipolar transistor based hybrid solar cell using nano-rods</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2022) </i> </p>
 
-- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Arpan Sur, and Ahmed Zubair, “<strong>Hierarchically structured and thermally robust perovskite solar cells with band-engineered double-hole layers</strong>” <i> Published in <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
 
-- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
 
 <div style="height: 60px;"></div>
 
@@ -94,7 +94,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+- <p style="font-size: 20px;"><strong>Md. Faiaad Rahman*</strong>, Md. Ashaduzzaman Niloy, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
 
 <div style="height: 60px;"></div> 
 
@@ -104,7 +104,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman</strong>, Jabed Hasan, Md. Ashaduzzaman Niloy and, ASM Shihabuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
+- <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman*</strong>, Jabed Hasan*, Md. Ashaduzzaman Niloy* and, ASM Shihabuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
 
 <div style="height: 60px;"></div> 
 
