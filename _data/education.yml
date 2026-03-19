@@ -1,0 +1,60 @@
+- title: "Master of Science"
+  degree: "Electrical and Electronic Engineering"
+  major: "Electronics and Photonics"
+  dept_link: "https://eee.buet.ac.bd/"
+  key: "msc2025"
+  university: "Bangladesh University of Engineering and Technology"
+  uni_link: "https://buet.ac.bd/"
+  duration: "June 2023 - Ongoing"
+  year: 2025 (Tentative)
+  cgpa: "3.5"
+  cgpa_scale: "4.00"
+  # rank: "14 / 215 (Top 6%)"
+  location: "Dhaka, Bangladesh"
+  logo: "BUET.png"
+
+
+
+- title: "Bachelor of Science"
+  degree: "Electrical and Electronic Engineering"
+  major: "Electronics and Photonics"
+  dept_link: "https://www.sust.edu/departments/eee"
+  key: "bsc2023"
+  university: "Shahjalal University of Science and Technology"
+  uni_link: https://www.sust.edu/"
+  duration: "January 2017 - March 2023"
+  year: 2023
+  cgpa: "3.3"
+  cgpa_scale: "4.00"
+  # rank: "14 / 215 (Top 6%)"
+  location: "Sylhet, Bangladesh"
+  logo: "Shahjalal_University_of_Science_and_Technology_logo.png"
+
+
+- title: "Higher Secondary Certificate (HSC)"
+  major: "Science"
+  key: "hsc2017"
+  university: "Notre Dame College"
+  uni_link: "https://www.noormohammadcollege.ac.bd/"
+  duration: "July 2014 - July 2016"
+  year: 2016
+  cgpa: "5.00"
+  cgpa_scale: "5.00"
+  # rank: "14 / 215 (Top 6%)"
+  location: "Dhaka, Bangladesh"
+  logo: "Logo_of_BNMPC.png"
+
+
+
+- title: "Secondary School Certificate (SSC)"
+  major: "Science"
+  key: "ssc2014"
+  university: "Annada Govt. High School"
+  uni_link: "http://www.annadaghs.edu.bd/"
+  duration: "Jan 2009 - May 2014"
+  year: 2014
+  cgpa: "5.00"
+  cgpa_scale: "5.00"
+  # rank: "14 / 215 (Top 6%)"
+  location: "Brahmanbaria, Bangladesh"
+  logo: "Annada.png"
