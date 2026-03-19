@@ -104,7 +104,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman*</strong>, Jabed Hasan*, Md. Ashaduzzaman Niloy* and, ASM Shihabuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
+- <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman*</strong>, Jabed Hasan*, Md. Ashaduzzaman Niloy* and, ASM Shihavuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
 
 <div style="height: 60px;"></div> 
 
