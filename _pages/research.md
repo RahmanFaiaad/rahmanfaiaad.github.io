@@ -50,8 +50,19 @@ nav_order: 3
 
 ---
 
-<div style="height: 60px;"></div> 
+<div style="height: 60px;"></div>
 
+<p style="text-align: Left; font-size: 28px;">
+    <strong>Journals</strong>
+</p>
+
+- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+
+- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+
+- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
+
+<div style="height: 60px;"></div>
 
 <p style="text-align: Left; font-size: 28px;">
     <strong>Conference Proceedings</strong>
