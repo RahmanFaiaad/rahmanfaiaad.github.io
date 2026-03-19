@@ -28,21 +28,21 @@
   cgpa: "3.3"
   cgpa_scale: "4.00"
   # rank: "14 / 215 (Top 6%)"
-  location: "Sylhet, Bangladesh"
+  location: "Sylhet, Bangladesh."
   logo: "Shahjalal_University_of_Science_and_Technology_logo.png"
 
 
 - title: "Higher Secondary Certificate (HSC)"
   major: "Science"
-  key: "hsc2017"
-  university: "Notre Dame College"
+  key: "hsc2016"
+  university: "Birshreshtha Noor Mohammad Public College"
   uni_link: "https://www.noormohammadcollege.ac.bd/"
   duration: "July 2014 - July 2016"
   year: 2016
   cgpa: "5.00"
   cgpa_scale: "5.00"
   # rank: "14 / 215 (Top 6%)"
-  location: "Dhaka, Bangladesh"
+  location: "Dhaka, Bangladesh."
   logo: "Logo_of_BNMPC.png"
 
 
