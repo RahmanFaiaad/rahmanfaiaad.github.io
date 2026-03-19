@@ -149,7 +149,7 @@ nav_order: 3
 
 <div style="height: 60px;"></div> 
 
----
+<!-- ---
 
 <p style="text-align: center; font-size: 32px;">
     <strong>Research Experience</strong>
@@ -237,5 +237,5 @@ nav_order: 3
 
 <div style="height: 30px;">
 </div> 
-
+-->
 <!-- [JSAP]: https://docs.google.com/presentation/d/15cIItyCWa-KjU3bGkxi__p--92b0h0_V/edit?usp=sharing&ouid=104682773955332257682&rtpof=true&sd=true -->
