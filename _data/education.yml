@@ -19,17 +19,17 @@
 - title: "Bachelor of Science"
   degree: "Electrical and Electronic Engineering"
   major: "Electronics and Photonics"
-  dept_link: "https://www.sust.edu/departments/eee"
+  dept_link: "https://www.sust.edu/departments/eee/"
   key: "bsc2023"
   university: "Shahjalal University of Science and Technology"
-  uni_link: https://www.sust.edu/"
+  uni_link: "https://www.sust.edu/"
   duration: "January 2017 - March 2023"
   year: 2023
   cgpa: "3.3"
   cgpa_scale: "4.00"
   # rank: "14 / 215 (Top 6%)"
   location: "Sylhet, Bangladesh."
-  logo: "Shahjalal_University_of_Science_and_Technology_logo.png"
+  logo: "SUST_logo.png"
 
 
 - title: "Higher Secondary Certificate (HSC)"
