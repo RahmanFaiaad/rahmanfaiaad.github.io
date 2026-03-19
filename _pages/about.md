@@ -30,8 +30,8 @@ latest_posts:
 [DAZ]:https://sites.google.com/view/ahmed-zubair-research-group/home
 [EEE-BUET]:https://eee.buet.ac.bd/
 [UNI]:https://www.buet.ac.bd/web/
-
-I am currently studing as a graduate student in the [Department of Electrical and Electronic Engineering (EEE)][EEE-BUET] at [Bangladesh University of Engineering and Technology (BUET)][UNI]. I completed my B.Sc. in Electrical and Electronic Engineering from SUST in 2023 and am currently pursuing an M.Sc. in the same department, specializing in Electronics and Photonics (EP) under the supervision of [Dr. Ahmed Zubair][DAZ]. My Master's thesis focuses on enhancing the performance of ultra-thin film perovskite solar cells beyond the visible spectrum through the synergistic incorporation of double hole layer and hierarchical ellipsoidal pattern.
+[UNI_2]: https://www.sust.edu/
+I am currently studying as a graduate student in the [Department of Electrical and Electronic Engineering (EEE)][EEE-BUET] at [Bangladesh University of Engineering and Technology (BUET)][UNI]. I completed my B.Sc. in Electrical and Electronic Engineering from [SUST][UNI_2] in 2023 and am currently pursuing an M.Sc. in the same department, specializing in Electronics and Photonics (EP) under the supervision of [Dr. Ahmed Zubair][DAZ]. My Master's thesis focuses on enhancing the performance of ultra-thin film perovskite solar cells beyond the visible spectrum through the synergistic incorporation of double hole layer and hierarchical ellipsoidal pattern.
 
 <!-- Beyond my thesis, I also have experience designing graphene-based plasmonic waveguides and integrable plasmonic devices. I am currently developing 2D material-based nanoparticles that have potential medical applications. My research interests include **Plasmonics and Nanophotonics**, **Photonic Integrated Circuit**, **Ultrafast Optoelectronics**, **Non-linear Optics** and **Quantum Optics**. -->
 
