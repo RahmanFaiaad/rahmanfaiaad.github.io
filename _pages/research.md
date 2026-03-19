@@ -116,6 +116,16 @@ nav_order: 3
 
 ---
 
+<div style="height: 60px;"></div>
+
+- <p style="font-size: 20px;">“<strong>Performance Analysis of MgF2-Si3N4 and MgF2-Ta2O5 Double Layer Anti-Reflection Coating on Heterojunction Bipolar Transistor Solar Cell</strong>” <i> Presented in PERESC (Power Electronic and Renewable Energy Systems Control) 2020 </i></p>
+
+<div style="text-align: center; font-size: 20px;">
+  <a href="https://drive.google.com/file/d/1pbm8ZFzifNjBXYXuzyvTMZWggZEDUILI/view?usp=sharing" style="color: blue;">
+    <strong style="color: blue;">Presentation</strong>
+  </a>
+</div>
+
 <div style="height: 60px;"></div> 
 
 - <p style="font-size: 20px;">“<strong>PbS-CQD Incorporated Perovskite (MASnI3) Solar Cell with s-SWCNT as HTL</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
