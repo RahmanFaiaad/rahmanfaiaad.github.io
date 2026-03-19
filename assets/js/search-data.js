@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Md_Faiaadd_Rahman_CV.pdf", "_blank");
+          window.open("/assets/pdf/Md_Faiaad_Rahman_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
