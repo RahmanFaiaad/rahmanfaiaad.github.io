@@ -59,9 +59,6 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman</strong>, Jabed Hasan, Md. Ashaduzzaman Niloy and, ASM Shihabuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
-
-
 - <p style="font-size: 20px;">Md. Mufassal Ahmed*, <strong>Md. Faiaad Rahman*</strong> and, Tahmid Aziz Chowdhury, “<strong>Performance Analysis of MgF2-Si3N4 and MgF2-Ta2O5 Double-Layer Anti-reflection Coating on Heterojunction Bipolar Transistor Solar Cell</strong>” <i> presented in PERESC (2020) </i> </p>
 
 
@@ -86,7 +83,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Labonno Saha, and Md. Kawsar Alam, “<strong>NIR-I Responsive 2D MoGe<sub>2</sub>P<sub>4</sub> for Targeted Photothermal Tumor Therapy</strong>” <i> Manuscript submitted to <strong>Advanced NanoBiomed Research</strong> (2024) </i> </p>
+- <p style="font-size: 20px;">Md. Faiaad Rahman*, <strong>Md. Ashaduzzaman Niloy*</strong>, Ehsanur Rahman, and Ahmed Zubair, “<strong>Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells</strong>” <i> Manuscript submitted to <strong>Solar Energy Materials and Solar Cells</strong> (2026) </i> </p>
 
 <div style="height: 60px;"></div> 
 
@@ -96,8 +93,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;"> <strong>Arpan Sur*</strong>, Sudipta Saha*, Ahmed Zubair, “<strong>NIR-Responsive Hyperbolic Metamaterial Sensor for Efficient Salinity Detection</strong>” <i> Abstract submitted in CLEO 2025 </i> </p>
-
+- <p style="font-size: 20px;"> <strong>Md. Faiaad Rahman</strong>, Jabed Hasan, Md. Ashaduzzaman Niloy and, ASM Shihabuddin, “<strong>Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiOx HTL</strong>” <i> To be presented in 2nd IEEE QPAIN (2026) </i> </p>
 
 <div style="height: 60px;"></div> 
 
