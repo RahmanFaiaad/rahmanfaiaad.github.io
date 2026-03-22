@@ -2,7 +2,7 @@
 layout: cv
 permalink: /assets/pdf/Md_Faiaad_Rahman_CV.pdf #/cv/
 title: CV
-nav: true
+nav: false
 nav_order: 1
 cv_pdf:  # you can also use external links here
 # cv_format: rendercv # options: rendercv, jsonresume
