@@ -33,16 +33,10 @@ latest_posts:
 [UNI_2]: https://www.sust.edu/
 I am currently studying as a graduate student in the [Department of Electrical and Electronic Engineering (EEE)][EEE-BUET] at [Bangladesh University of Engineering and Technology (BUET)][UNI]. I completed my B.Sc. in Electrical and Electronic Engineering from [SUST][UNI_2] in 2023 and am currently pursuing an M.Sc. in the same department at BUET, specializing in Electronics and Photonics (EP) under the supervision of [Dr. Ahmed Zubair][DAZ]. My Master's thesis focuses on enhancing the performance of ultra-thin film perovskite solar cells beyond the visible spectrum through the synergistic incorporation of double hole layer and hierarchical ellipsoidal pattern.
 
-<!-- Beyond my thesis, I also have experience designing graphene-based plasmonic waveguides and integrable plasmonic devices. I am currently developing 2D material-based nanoparticles that have potential medical applications. My research interests include **Plasmonics and Nanophotonics**, **Photonic Integrated Circuit**, **Ultrafast Optoelectronics**, **Non-linear Optics** and **Quantum Optics**. -->
-
-<!-- With the rapid advancements of the past century, traditional semiconductor electronics now faces limits in speed, energy efficiency, and processing power. Meanwhile, photonics is emerging as a faster, more efficient alternative to sustain technological progress. Beyond classical applications, photonics holds vast potential in quantum technologies. I believe photonic devices will be key to future innovations, and I am eager to contribute to this transformative field. -->
 <!--
-
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
--->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
+-->
