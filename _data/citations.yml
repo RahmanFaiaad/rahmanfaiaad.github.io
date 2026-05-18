@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-05-18'
 papers:
   AUF96VUAAAAJ:UeHWp8X0CEIC:
     citations: 2
     title: Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells
     year: '2025'
+  AUF96VUAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: "Optoelectronic Analysis of Lead Free FASnI\u2083 Single Junction Solar Cell Incorporating Cu:NiO\u2093 HTL"
+    year: '2026'
   AUF96VUAAAAJ:d1gkVwhDpl0C:
     citations: 11
     title: Performance improvement of three terminal heterojunction bipolar transistor based hybrid solar cell using nano-rods
@@ -14,6 +18,6 @@ papers:
     title: Performance Analysis of MgF2-Si3N4 and MgF2-Ta2O5 Double-Layer Anti-reflection Coating on Heterojunction Bipolar Transistor Solar Cell
     year: '2021'
   AUF96VUAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: Hierarchically structured and thermally robust perovskite solar cells with band-engineered double-hole layers
     year: '2026'
