@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-29'
 papers:
+  AUF96VUAAAAJ:Se3iqnhoufwC:
+    citations: 2
+    title: Performance Analysis of MgF2-Si3N4 and MgF2-Ta2O5 Double-Layer Anti-reflection Coating on Heterojunction Bipolar Transistor Solar Cell
+    year: '2021'
   AUF96VUAAAAJ:UeHWp8X0CEIC:
     citations: 2
     title: Unveiling architectural and optoelectronic synergies in lead-free perovskite/perovskite/kesterite triple-junction monolithic tandem solar cells
@@ -13,10 +17,6 @@ papers:
     citations: 0
     title: "Optoelectronic Analysis of Lead Free FASnI3 Single Junction Solar Cell Incorporating Cu:NiO\u2093 HTL"
     year: '2026'
-  AUF96VUAAAAJ:_FxGoFyzp5QC:
-    citations: 2
-    title: Performance Analysis of MgF2-Si3N4 and MgF2-Ta2O5 Double-Layer Anti-reflection Coating on Heterojunction Bipolar Transistor Solar Cell
-    year: '2021'
   AUF96VUAAAAJ:ufrVoPGSRksC:
     citations: 0
     title: Intra Departmental Document Transferring System Using Smart Quad Copter
